@@ -1,2 +1,2 @@
-def lengthOfLastWord(self, st: str) -> int:
-        return len(st.split()[-1])
+def lengthOfLastWord(self, s: str) -> int:
+        return len(s.split()[-1])
